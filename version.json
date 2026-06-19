@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "5.2.0",
-  "changelog": "- Red neon cyberpunk eagle icon (circular)\n- Advanced 3-ring spinner during processing\n- Cancel & Wipe temp files support\n- API 21+ (Android 5.0) compatible\n- Full Pairip / Play Integrity bypass pipeline",
-  "apk_url": "https://github.com/Matrix1999/AdizaPairipDumper/releases/download/v5.2.0/AdizaPairipDumper_v5.2.0.apk"
+  "version_code": 6,
+  "version_name": "5.3.0",
+  "apk_url": "https://github.com/Matrix1999/AdizaPairipDumper/releases/download/v5.3.0/PairipX_v5.3.0.apk",
+  "changelog": "- White title, no colour animation\n- Detector fixed: no false-positives after reinstall\n- Persistent patched-app exclusion\n- Faster Pairip.jar processing (G1GC + server JIT)\n- APKs tab text updated"
 }
