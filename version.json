@@ -1,0 +1,6 @@
+{
+  "version_code": 5,
+  "version_name": "5.2.0",
+  "changelog": "- Red neon cyberpunk eagle icon (circular)\n- Advanced 3-ring spinner during processing\n- Cancel & Wipe temp files support\n- API 21+ (Android 5.0) compatible\n- Full Pairip / Play Integrity bypass pipeline",
+  "apk_url": "https://github.com/Matrix1999/AdizaPairipDumper/releases/download/v5.2.0/AdizaPairipDumper_v5.2.0.apk"
+}
